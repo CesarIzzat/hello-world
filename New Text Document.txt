@@ -1,3 +1,7 @@
 sdfgsdgf
+<<<<<<< HEAD
 
 fixes issue bug 2
+=======
+some changes
+>>>>>>> origin/master
